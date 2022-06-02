@@ -1,6 +1,6 @@
-<h1 align="center"> Hello everyone! Eu sou a Glenda Borges 👋 </h1>
+<h1 align="center"> Hey wolrd! </h1>
 
-<div align="center"><strong></strong></div>
+<div align="center">Sou uma entusiasta da tecnologia, curiosa, comunicativa e que adora aprender coisas novas. Atualmente tenho me dedicado a programação full stack, no qual possuo um maior conhecimento no frontend em Angular e backend em Java/Spring.<strong></strong></div>
 <br>
 <br>
 
