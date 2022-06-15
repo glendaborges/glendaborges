@@ -1,6 +1,6 @@
 <h1 align="center"> Hey world! </h1>
 
-<div align="center">Sou uma entusiasta da tecnologia, curiosa, comunicativa e que adora aprender coisas novas. Atualmente tenho me dedicado a programação full stack, no qual possuo um maior conhecimento no frontend em Angular e backend em Java/Spring.<strong></strong></div>
+<div align="center">Sou uma entusiasta da tecnologia, curiosa, comunicativa e que adora aprender coisas novas. Atualmente tenho me dedicado a programação full stack, no qual possuo um maior conhecimento no front-end em Angular e back-end em Java/Spring.<strong></strong></div>
 <br>
 <br>
 
